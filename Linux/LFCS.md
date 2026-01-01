@@ -1,4 +1,4 @@
-**Linux Foundation Certified Systems Administrator (LFCS)**
+# Linux Foundation Certified Systems Administrator (LFCS)
 
 **Points breakdown for Exam Objectives**
 
